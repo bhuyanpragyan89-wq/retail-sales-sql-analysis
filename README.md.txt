@@ -1,7 +1,10 @@
 # Retail Sales Analysis using SQL
 
+## Author 
+Pragyan Bhuyan
+
 ## Overview
-This project analyzes retail sales data to understand customer behavior, sales trends, and business performance using SQL.
+This project analyzes retail sales data to uncover customer behavior, identify sales trends, and evaluate overall business performance using SQL.
 
 ## Tools Used
 - PostgreSQL
